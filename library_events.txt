@@ -1,0 +1,22 @@
+Added book 101
+Added book 102
+Added book 103
+Added book 104
+Added book 105
+Added book 106
+Added book 107
+Added book 108
+Added book 109
+Added book 110
+Added member 1
+Added member 2
+Added member 3
+Added member 4
+Added member 5
+Borrowed 101
+Borrowed 102
+Borrowed 103
+Borrowed 107
+Borrowed 109
+Borrowed 108
+Returned 107

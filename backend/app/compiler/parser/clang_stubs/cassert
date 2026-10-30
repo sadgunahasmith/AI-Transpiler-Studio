@@ -1,0 +1,6 @@
+#pragma once
+#include "__std_defs.h"
+#ifndef assert
+#define assert(x) ((void)0)
+#endif
+
